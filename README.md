@@ -1,8 +1,23 @@
-# Lumiere Project
+# Lumiere Project: Movie Recommendation System & API Integration
 
 [**Lumiere**](https://henrik-g69.github.io/Lumiere/index.html) is a web application that recommends movies based on the user's preferences. By analyzing selected films, it suggests new titles that match the user's tastes. It **connects to the OMDB API** to fetch real-time data such as posters, genres, ratings, and other **comprehensive details**, enhancing the **user experience (UX)** to be dynamic, personalized, and interactive.
 
 Built primarily with **HTML, CSS, and JavaScript**, Lumiere incorporates a **robust caching system** that significantly **reduces API calls (by 30%)** and makes the website highly **optimized**, leading to a **10% reduction in loading times**. This ensures a fluid and efficient content discovery experience.
+
+ **Technical Highlights & Infrastructure Focus:**
+Performance Optimization: Developed a robust caching system that reduced redundant API calls by 30%, optimizing bandwidth usage and **API quota management**.
+**User Experience (UX) & Latency:** Achieved a 10% reduction in loading times, ensuring high availability and a fluid interface for the end-user.
+
+Data Integrity: Implemented logic to handle API responses, ensuring that the application remains stable even when external data sources are unavailable **(Error Handling).**
+
+ **Connection to Cybersecurity/Infrastructure:**
+Developing Lumiere allowed me to practice core concepts essential for an Infrastructure/Service Desk role:
+
+Troubleshooting: Debugging API connection issues and browser compatibility.
+
+Resource Management: Understanding how to optimize client-server communication.
+
+Documentation: Maintaining a clean and version-controlled codebase via Git.
 
 ## SCREENSHOTS ##
 
